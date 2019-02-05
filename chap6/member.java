@@ -2,10 +2,10 @@ package chap6;
 public class member{
 
 
-    public String name;
-    public String id;
-    private String password;
-    private String age;
+     String name;
+     String id;
+     String password;
+     String age;
     
     public member(String name,String password){
         this.name=name;
