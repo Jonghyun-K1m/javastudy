@@ -8,7 +8,7 @@ public class memberService{
             return true;
         }
         else return false;
-    }
+    } 
     public void logout(String id){
        System.out.println("logout");
     }

@@ -1,6 +1,6 @@
 package chap6;
 public class member{
-
+ 
 
      String name;
      String id;

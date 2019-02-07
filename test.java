@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class test{
-
+ 
     public static void main(String args[]){
         
         Scanner aScanner = new Scanner(System.in);
@@ -8,7 +8,7 @@ public class test{
 
         System.out.println("input");
         a=aScanner.nextLine();
-        System.out.println("output"+a);
+        System.out.println(a);
 
         aScanner.close();
 

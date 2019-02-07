@@ -11,8 +11,8 @@ public class mainservice{
             System.out.println("login");
             memService.logout("hong");
         }
-        else {
+        else {  
             System.out.println("login failure");
-        }
+        }  
     }
 }   
