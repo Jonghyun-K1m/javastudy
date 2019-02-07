@@ -7,10 +7,6 @@ public class test{
         String a;
 
         System.out.println("input");
-        a=aScanner.nextLine();
-        System.out.println(a);
-
-        aScanner.close();
-
+     
     }
 }
