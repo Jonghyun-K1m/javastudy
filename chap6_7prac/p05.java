@@ -35,5 +35,6 @@ public class p05 {
         Scanner caption_scan =new Scanner(System.in);
         String caption_text= caption_scan.nextLine();
         remote.displayCation(caption_text);
+        caption_scan.close();
     }
 }
