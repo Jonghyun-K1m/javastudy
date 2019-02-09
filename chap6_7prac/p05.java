@@ -14,7 +14,7 @@ class tv{
     void channelDown(){
         channel=channel-1;
     }
-}
+} 
 
 class CaptionTv extends tv{
     Boolean caption=false;

@@ -9,7 +9,7 @@ public class p03{
         int[] intarr=new int[6];
         Random ran = new Random();
         int num;
-    
+     
         for(int i=0;i<input;i++){
             for(int j=0;j<6;j++){
                 num=(int)(Math.random()*45+1);

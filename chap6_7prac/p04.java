@@ -8,7 +8,7 @@ class air{
     }
     void tempDown(){
         temp--;
-    }
+    } 
     void power(){
         if(power==false)power=true;
         else power=false;
