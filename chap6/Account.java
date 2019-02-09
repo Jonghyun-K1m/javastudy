@@ -6,7 +6,7 @@ public class Account{
     boolean ac;
     private boolean isbalance(int balance){
         
-        if(balance>=0 && balance<=1000000)return true;
+        if(balance>=0 && balance<=1000000)return true; 
         else return false;
     }
     public void setAccount(int money){

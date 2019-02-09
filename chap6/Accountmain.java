@@ -1,7 +1,7 @@
 package chap6;
 public class Accountmain{
 
-   
+    
     public static void main(String args[]){
 
         Account A=new Account();
