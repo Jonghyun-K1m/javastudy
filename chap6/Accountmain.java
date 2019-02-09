@@ -8,7 +8,7 @@ public class Accountmain{
         A.setAccount(10000);
         System.out.println("savedMoney = "+A.savedMoney);
         A.setAccount(100000);
-        System.out.println("savedMoney = "+A.savedMoney);
+        System.out.println("savedMoney = "+A.savedMoney); 
         A.setAccount(10000000);
         System.out.println("savedMoney = "+A.savedMoney);
         
