@@ -1,1 +1,3 @@
-double total = Math.floor((objectnum) * 10d) / 10d;
+double total = Math.floor((objectnum) * 10d) / 10d; 
+ 
+ 

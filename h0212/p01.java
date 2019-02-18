@@ -32,7 +32,7 @@ public class p02 {
         					System.out.println(count);
         						count=1;
         		}
-        		else System.out.println(count);
+        		else System.out.println(count); 
         	}
         }
     	System.out.print(temp);
