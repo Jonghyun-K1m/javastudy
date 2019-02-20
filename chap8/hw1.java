@@ -1,6 +1,6 @@
 package chap8;
 import java.util.Scanner;
-
+				//끝말잇기게임
 public class hw1 {
 
 	public static void main(String[] args) {
