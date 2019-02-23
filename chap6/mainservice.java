@@ -1,5 +1,5 @@
 package chap6;
-public class mainservice{
+public class mainservice{ //메인
 
   
     public static void main(String args[]){
