@@ -1,5 +1,5 @@
 package chap6;
-public class Account{
+public class Account{       //계좌클래스
 
     protected int savedMoney;
 
