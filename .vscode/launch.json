@@ -5,7 +5,7 @@
             "type": "java",
             "name": "CodeLens (Launch) - test",
             "request": "launch",
-            "mainClass": "chap8.Cal",
+            "mainClass": "chap8.Calmain",
             "projectName": "javastudy_5ebeb095"
         }
     ]

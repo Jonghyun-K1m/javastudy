@@ -8,6 +8,9 @@ public class Calmain{
         a=calculator.plus(5, 3);
         b=calculator.minus(5, 3);
         c=calculator.sum(5,3);
-        d=calculator.subtract(5, 3);
+        System.out.print(a+b+c);
+       // d=calculator.subtract(5, 3);
+        //Calinter.subtract(5, 3);
     }
 }
+
