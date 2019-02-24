@@ -18,7 +18,7 @@ class SearchStr{
 			System.out.print(i+">>");
 			System.out.println(arr[i]);
 			
-		}
+		} 
 	}
 }
 
