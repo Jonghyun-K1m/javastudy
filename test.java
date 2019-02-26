@@ -8,7 +8,7 @@ public class test{
         Scanner aScanner = new Scanner(System.in);
         String a;
 
-        System.out.println("input");
+         System.out.println("input");
 
         int arr[]= new int[5];
         arr[0]=111;
