@@ -1,6 +1,6 @@
 package chap8;
 
-public class Calmain{
+public class Calmain{       //인터페이스 응용
 
     public static void main(String[] args){
         Calinter calculator = new Calclass();
