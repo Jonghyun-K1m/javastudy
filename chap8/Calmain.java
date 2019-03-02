@@ -1,6 +1,6 @@
 package chap8;
 
-public class Calmain{       //인터페이스 응용
+public class Calmain{       //인터페이스 응용 계산기
 
     public static void main(String[] args){
         Calinter calculator = new Calclass();
@@ -9,7 +9,7 @@ public class Calmain{       //인터페이스 응용
         b=calculator.minus(5, 3);
         c=calculator.sum(5,3);
         System.out.print(a+b+c);
-       // d=calculator.subtract(5, 3);
+       // d=calculator.subtract(5, 3); 
         //Calinter.subtract(5, 3);
     }
 }
