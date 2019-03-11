@@ -1,6 +1,6 @@
 package chap01;
 
-import java.util.*;
+import java.util.*; 
 public class LocationMain {
 	
 	
