@@ -1,20 +1,46 @@
-package chap6;
-public class Account{       //계좌클래스
+package h0210;
+public class account{
 
-    protected int savedMoney;
-
-    boolean ac;
-    private boolean isbalance(int balance){
-        
-        if(balance>=0 && balance<=1000000)return true; 
-        else return false;
+    private String ano;
+    private String aname;
+    private int money;
+    //private boolean balanced;
+    public account(String ano,String aname,int money){
+        this.ano=ano;
+        this.aname=aname;
+        this.money=money;
     }
-    public void setAccount(int money){
-        ac=isbalance(money);
-        if(ac)savedMoney=money;
-        else {
-            System.out.println("balance out");
+
+    public String getAno(){
+        return ano;
+    }
+    public void setAno(String ano){
+        this.ano= ano;
+    }
+   
+    public String getName(){
+        return aname;
+    }
+    public void setName(String aname){
+        this.aname= aname;
+    }
+    
+    
+    public int getmoney(){
+        return money;
+    }
+    
+    public void setmoney(int money){
+        //isbalanced(money);
+        //if(balanced==true)
+        this.money= money;
+        //else System.out.println("Balanced out");
+    }
+
+   /* public void isbalanced(int money){
+        if(money>=0 && money<=1000000){
+            balanced=true;
         }
-    }
-
+        else balanced=false;
+    }*/
 }
