@@ -1,7 +1,7 @@
 package chap8;
 import java.util.Scanner;
 				//끝말잇기게임
-public class hw1 {
+public class hw7 {
 
 	public static void main(String[] args) {
 		boolean run=true;
