@@ -2,7 +2,7 @@ package chap6_7prac;
 
 
 
-public class p01{
+public class p01{ 
     public static void main(String[] args) {
         int i=0,j=0;
         while(true){

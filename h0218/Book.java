@@ -19,6 +19,6 @@ public class Book extends product {
         return bookname;
     }
     public int getISBN(){
-        return ISBN;
+        return ISBN; 
     } 
 }
