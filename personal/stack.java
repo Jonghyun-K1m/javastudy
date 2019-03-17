@@ -35,7 +35,7 @@ class StringStackz<T> implements stack<T> {
 		System.out.println("S");
 		S.push(1);
 		S.pop();
-	}
+	} 
 }
 
 
