@@ -2,7 +2,7 @@ import java.util.Scanner;
 //import chap7.*;
 
 public class test{
- 
+  
     public static void main(String args[]){
         
         Scanner aScanner = new Scanner(System.in);
