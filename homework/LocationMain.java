@@ -18,7 +18,7 @@ public class LocationMain {
 					
 			mapt.put(strinput, a);
 		}
-		
+		 
 		
 		strinput=in.next();
 		if(mapt.containsKey(strinput)) {
