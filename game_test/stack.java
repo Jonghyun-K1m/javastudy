@@ -32,7 +32,7 @@ class StringStackz<T> implements stack<T> {
 	public static void main(String[] args) {
 		
 		StringStackz<Integer> S=new StringStackz<Integer>();
-		System.out.println("S");
+		System.out.println("Stack");
 		S.push(1);
 		S.pop();
 	} 
